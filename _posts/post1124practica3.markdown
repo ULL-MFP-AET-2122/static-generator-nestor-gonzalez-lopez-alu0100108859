@@ -1,6 +1,17 @@
 ---
 title: "My first posts"
 ---
-# por fin es jueves
+# Mi nombre es: Néstor
 
-Bla bla bla bla {{page.title}}
+Ejemplo de página web
+
+<table width="100%">
+    <tr>
+      <td>Primer post</td>
+    </tr>
+    <tr>
+    <td>
+      «Sabed, oh, príncipe, que entre los años en que los océanos se tragaron Atlantis y las resplandecientes ciudades, y los años del alzamiento de los hijos de Aryas, hubo una edad no soñada en la que brillantes reinos se esparcían por el mundo como mantos azules bajo las estrellas: Nemedia, Ofir, Brithunia, Hiperbórea, ...
+    </td>
+  </tr>
+</table>
