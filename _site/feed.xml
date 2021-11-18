@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-18T18:33:47+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Site Title</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">Aprendiendo a usar esto</title><link href="http://localhost:4000/docentia/practica3" rel="alternate" type="text/html" title="Aprendiendo a usar esto" /><published>2021-08-09T00:00:00+00:00</published><updated>2021-08-09T00:00:00+00:00</updated><id>http://localhost:4000/docentia/practica3</id><content type="html" xml:base="http://localhost:4000/docentia/practica3">&lt;h1 id=&quot;mi-nombre-es-néstor&quot;&gt;Mi nombre es: Néstor&lt;/h1&gt;
+
+&lt;p&gt;Fórmula&lt;/p&gt;
+
+\[f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi\]
+
+&lt;h2 id=&quot;datos&quot;&gt;Datos&lt;/h2&gt;
+&lt;p&gt;Leer CSV
+—&lt;/p&gt;
+&lt;table&gt;
+  
+    
+    &lt;tr&gt;
+      
+        &lt;th&gt;First name&lt;/th&gt;
+      
+        &lt;th&gt;Last name&lt;/th&gt;
+      
+        &lt;th&gt;Age&lt;/th&gt;
+      
+        &lt;th&gt;Location&lt;/th&gt;
+      
+    &lt;/tr&gt;
+    
+
+    &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      John
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      Doe
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      35
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      United States
+    &lt;/td&gt;&lt;/tr&gt;
+
+  
+    
+
+    &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      Jane
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      Doe
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      29
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      France
+    &lt;/td&gt;&lt;/tr&gt;
+
+  
+    
+
+    &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      Jack
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      Hill
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      25
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      Australia
+    &lt;/td&gt;&lt;/tr&gt;
+
+  
+&lt;/table&gt;
+
+&lt;table width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Primer post&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td&gt;
+      «Sabed, oh, príncipe, que entre los años en que los océanos se tragaron Atlantis y las resplandecientes ciudades, y los años del alzamiento de los hijos de Aryas, hubo una edad no soñada en la que brillantes reinos se esparcían por el mundo como mantos azules bajo las estrellas: Nemedia, Ofir, Brithunia, Hiperbórea, ...
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</content><author><name>Your Name</name></author><category term="docentia" /><summary type="html">Mi nombre es: Néstor</summary></entry><entry><title type="html">Mi Segundo post</title><link href="http://localhost:4000/blog/post2" rel="alternate" type="text/html" title="Mi Segundo post" /><published>2021-07-09T00:00:00+00:00</published><updated>2021-07-09T00:00:00+00:00</updated><id>http://localhost:4000/blog/post2</id><content type="html" xml:base="http://localhost:4000/blog/post2">&lt;h2 id=&quot;daredevil-post&quot;&gt;Daredevil post&lt;/h2&gt;
+
+&lt;p&gt;Usuario: I am an &lt;strong&gt;amazing&lt;/strong&gt; person.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.latercera.com/resizer/n3jXtTiAWEbVG0Rmpp9C9kd_Kvw=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/NIEEX4Z3BRG6RNMXZ5BEIPBPRE.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;h5&gt;Notas de clase&lt;/h5&gt;
+&lt;p&gt;Somos 20 alumnos &lt;br /&gt;
+El resultado de chuchu es 4&lt;/p&gt;
+
+&lt;h5&gt;Probando estructuras&lt;/h5&gt;
+
+&lt;p&gt;En breve es fiiindeee!!&lt;/p&gt;
+
+&lt;h5&gt;Frutitas&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Me gusta el melón&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Me gusta el coco&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Me gusta el higo&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Your Name</name></author><category term="blog" /><summary type="html">Daredevil post Usuario: I am an amazing person. Notas de clase Somos 20 alumnos El resultado de chuchu es 4 Probando estructuras En breve es fiiindeee!! Frutitas Me gusta el melón Me gusta el coco Me gusta el higo</summary></entry></feed>
