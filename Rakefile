@@ -14,7 +14,6 @@ task :deploy do
   sh "cd _site; git add -f .; git commit -am new-deploy; git push -u origin master"
 end
 
-
 task :default => :deploy do
   sh "git add -f .; git commit -am new-version; git push -u origin master"
 end
