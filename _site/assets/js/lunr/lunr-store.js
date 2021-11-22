@@ -1,6 +1,6 @@
 var store = [{
         "title": "Daredevil, la mejor serie de Marvel",
-        "excerpt":"Daredevil, la mejor serie de Marvel Usuario: I am an amazing person. Daredevil sorprendió llevando al Universo Cinematográfico de Marvel (MCU) a un terreno nuevo e inexplorado en las películas y series antes mencionadas, con un tono más oscuro y realista, logrando al mismo tiempo una fidelidad al cómic que...","categories": ["blog"],
+        "excerpt":"Daredevil, la mejor serie de Marvel Daredevil sorprendió llevando al Universo Cinematográfico de Marvel (MCU) a un terreno nuevo e inexplorado en las películas y series antes mencionadas, con un tono más oscuro y realista, logrando al mismo tiempo una fidelidad al cómic que recompensará a los fanáticos y conocedores...","categories": ["blog"],
         "tags": [],
         "url": "/blog/post2",
         "teaser": null
