@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Aprendizaje Competitivo",
-        "excerpt":"Mi nombre es: Néstor  ","categories": ["docentia"],
+        "excerpt":"En este tipo de aprendizaje se busca una rivalidad entre alumnos para ver quién aprende más, mejor y más deprisa. Según este modelo, un alumno se encuentra pendiente de dos cosas: la equivocación de un compañero para así obtener ventaja; y, la evaluación positiva de su aprendizaje, una valoración que...","categories": ["docentia"],
         "tags": [],
         "url": "/docentia/practica4",
         "teaser": null
