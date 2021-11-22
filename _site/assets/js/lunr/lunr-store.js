@@ -16,4 +16,10 @@ var store = [{
         "tags": [],
         "url": "/docentia/practica4",
         "teaser": null
+      },{
+        "title": "Aprendizaje Cooperativo",
+        "excerpt":"En este tipo de aprendizaje consiste en alumnos que trabajan juntos para alcanzar objetivos comunes, procurando obtener resultados que sean beneficiosos para todos los miembros del grupo, maximizando así su propio aprendizaje . Este aprendizaje es grupal y solo puede darse en el pequeño grupo. A diferencia del aprendizaje cooperativo...","categories": ["docentia"],
+        "tags": [],
+        "url": "/docentia/practica5",
+        "teaser": null
       }]
