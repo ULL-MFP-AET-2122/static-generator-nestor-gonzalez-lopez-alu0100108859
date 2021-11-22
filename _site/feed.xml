@@ -1,80 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-11-22T11:47:52+00:00</updated><id>/feed.xml</id><title type="html">Edu-blog</title><subtitle>An amazing website.</subtitle><author><name>Néstor González</name></author><entry><title type="html">Aprendizaje Competitivo</title><link href="/docentia/practica4" rel="alternate" type="text/html" title="Aprendizaje Competitivo" /><published>2021-11-21T00:00:00+00:00</published><updated>2021-11-21T00:00:00+00:00</updated><id>/docentia/practica4</id><content type="html" xml:base="/docentia/practica4">&lt;h1 id=&quot;mi-nombre-es-néstor&quot;&gt;Mi nombre es: Néstor&lt;/h1&gt;</content><author><name>Néstor González</name></author><category term="docentia" /><summary type="html">Mi nombre es: Néstor</summary></entry><entry><title type="html">Aprendizaje Individual</title><link href="/docentia/practica3" rel="alternate" type="text/html" title="Aprendizaje Individual" /><published>2021-08-09T00:00:00+00:00</published><updated>2021-08-09T00:00:00+00:00</updated><id>/docentia/practica3</id><content type="html" xml:base="/docentia/practica3">&lt;h1 id=&quot;mi-nombre-es-néstor&quot;&gt;Mi nombre es: Néstor&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-11-22T11:56:33+00:00</updated><id>/feed.xml</id><title type="html">Edu-blog</title><subtitle>An amazing website.</subtitle><author><name>Néstor González</name></author><entry><title type="html">Aprendizaje Competitivo</title><link href="/docentia/practica4" rel="alternate" type="text/html" title="Aprendizaje Competitivo" /><published>2021-11-21T00:00:00+00:00</published><updated>2021-11-21T00:00:00+00:00</updated><id>/docentia/practica4</id><content type="html" xml:base="/docentia/practica4">&lt;h1 id=&quot;mi-nombre-es-néstor&quot;&gt;Mi nombre es: Néstor&lt;/h1&gt;</content><author><name>Néstor González</name></author><category term="docentia" /><summary type="html">Mi nombre es: Néstor</summary></entry><entry><title type="html">Aprendizaje Individual</title><link href="/docentia/practica3" rel="alternate" type="text/html" title="Aprendizaje Individual" /><published>2021-08-09T00:00:00+00:00</published><updated>2021-08-09T00:00:00+00:00</updated><id>/docentia/practica3</id><content type="html" xml:base="/docentia/practica3">&lt;p&gt;
+En este tipo de  aprendizaje cada alumno trabaja de manera independiente para su propio beneficio personal sin apenas contacto con el resto de compañeros. &lt;/p&gt;
+&lt;p&gt;
+El hecho de que un alumno alcance o no su meta no va a influir en que los demás alcancen o no las suya. &lt;/p&gt;
 
-&lt;p&gt;Fórmula&lt;/p&gt;
-
-\[f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi\]
-
-&lt;h2 id=&quot;datos&quot;&gt;Datos&lt;/h2&gt;
-&lt;p&gt;Leer CSV
-—&lt;/p&gt;
 &lt;table&gt;
-  
-    
-    &lt;tr&gt;
-      
-        &lt;th&gt;First name&lt;/th&gt;
-      
-        &lt;th&gt;Last name&lt;/th&gt;
-      
-        &lt;th&gt;Age&lt;/th&gt;
-      
-        &lt;th&gt;Location&lt;/th&gt;
-      
-    &lt;/tr&gt;
-    
-
-    &lt;tr class=&quot;row1&quot;&gt;
-&lt;td class=&quot;col1&quot;&gt;
-      John
-    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
-      Doe
-    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
-      35
-    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
-      United States
-    &lt;/td&gt;&lt;/tr&gt;
-
-  
-    
-
-    &lt;tr class=&quot;row1&quot;&gt;
-&lt;td class=&quot;col1&quot;&gt;
-      Jane
-    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
-      Doe
-    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
-      29
-    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
-      France
-    &lt;/td&gt;&lt;/tr&gt;
-
-  
-    
-
-    &lt;tr class=&quot;row1&quot;&gt;
-&lt;td class=&quot;col1&quot;&gt;
-      Jack
-    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
-      Hill
-    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
-      25
-    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
-      Australia
-    &lt;/td&gt;&lt;/tr&gt;
-
-  
-&lt;/table&gt;
-
-&lt;table width=&quot;100%&quot;&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Primer post&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-    &lt;td&gt;
-      «Sabed, oh, príncipe, que entre los años en que los océanos se tragaron Atlantis y las resplandecientes ciudades, y los años del alzamiento de los hijos de Aryas, hubo una edad no soñada en la que brillantes reinos se esparcían por el mundo como mantos azules bajo las estrellas: Nemedia, Ofir, Brithunia, Hiperbórea, ...
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;</content><author><name>Néstor González</name></author><category term="docentia" /><summary type="html">Mi nombre es: Néstor</summary></entry><entry><title type="html">Mi Segundo post</title><link href="/blog/post2" rel="alternate" type="text/html" title="Mi Segundo post" /><published>2021-07-09T00:00:00+00:00</published><updated>2021-07-09T00:00:00+00:00</updated><id>/blog/post2</id><content type="html" xml:base="/blog/post2">&lt;h2 id=&quot;daredevil-post&quot;&gt;Daredevil post&lt;/h2&gt;
+&lt;tr&gt;
+&lt;th&gt;Ventajas&lt;/th&gt;
+&lt;th&gt;Desventajas&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; Permite evaluar el verdadero trabajo de cada alumno.&lt;/td&gt;
+&lt;td&gt;Se gasta mucho tiempo en evaluar a cada alumno.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;El alumno puede marcar su ritmo de estudio y aprendizaje. El alumno se responsabiliza de sus propias decisiones.&lt;/td&gt;
+&lt;td&gt;No enriquece el proceso de aprendizaje a través del intercambio.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</content><author><name>Néstor González</name></author><category term="docentia" /><summary type="html">En este tipo de aprendizaje cada alumno trabaja de manera independiente para su propio beneficio personal sin apenas contacto con el resto de compañeros. El hecho de que un alumno alcance o no su meta no va a influir en que los demás alcancen o no las suya.</summary></entry><entry><title type="html">Mi Segundo post</title><link href="/blog/post2" rel="alternate" type="text/html" title="Mi Segundo post" /><published>2021-07-09T00:00:00+00:00</published><updated>2021-07-09T00:00:00+00:00</updated><id>/blog/post2</id><content type="html" xml:base="/blog/post2">&lt;h2 id=&quot;daredevil-post&quot;&gt;Daredevil post&lt;/h2&gt;
 
 &lt;p&gt;Usuario: I am an &lt;strong&gt;amazing&lt;/strong&gt; person.&lt;/p&gt;
 

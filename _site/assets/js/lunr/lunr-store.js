@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Aprendizaje Individual",
-        "excerpt":"Mi nombre es: Néstor Fórmula \\[f(x) = \\int_{-\\infty}^\\infty \\hat f(\\xi)\\,e^{2 \\pi i \\xi x} \\,d\\xi\\] Datos Leer CSV — First name Last name Age Location John Doe 35 United States Jane Doe 29 France Jack Hill 25 Australia Primer post «Sabed, oh, príncipe, que entre los años en que los...","categories": ["docentia"],
+        "excerpt":"En este tipo de aprendizaje cada alumno trabaja de manera independiente para su propio beneficio personal sin apenas contacto con el resto de compañeros. El hecho de que un alumno alcance o no su meta no va a influir en que los demás alcancen o no las suya. Ventajas Desventajas...","categories": ["docentia"],
         "tags": [],
         "url": "/docentia/practica3",
         "teaser": null
