@@ -1,6 +1,6 @@
 var store = [{
         "title": "Mi Segundo post",
-        "excerpt":"Daredevil post   Usuario: I am an amazing person.      Notas de clase  Somos 20 alumnos   El resultado de chuchu es 4   Probando estructuras   En breve es fiiindeee!!   Frutitas           Me gusta el melón            Me gusta el coco            Me gusta el higo       ","categories": ["blog"],
+        "excerpt":"Daredevil, la mejor serie de Marvel Usuario: I am an amazing person. Daredevil sorprendió llevando al Universo Cinematográfico de Marvel (MCU) a un terreno nuevo e inexplorado en las películas y series antes mencionadas, con un tono más oscuro y realista, logrando al mismo tiempo una fidelidad al cómic que...","categories": ["blog"],
         "tags": [],
         "url": "/blog/post2",
         "teaser": null
